@@ -1,0 +1,26 @@
+{
+    "name": "pxt-kitronik-motor-driver",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "kitronik-motor-driver": "github:KitronikLtd/pxt-kitronik-motor-driver#v0.0.6"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.blocks",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "pyprj",
+    "yotta": {
+        "ignoreConflicts": true
+    }
+}
