@@ -19,7 +19,7 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj",
+    "preferredEditor": "blocksprj",
     "yotta": {
         "ignoreConflicts": true
     }
